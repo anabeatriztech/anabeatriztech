@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Ana Beatriz
 
-<!--
-**anabeatriztech/anabeatriztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software development student  
+🌱 Currently learning JavaScript and web development  
+📊 Interested in data, automation and AI  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on small personal projects to practice JavaScript  
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Git/GitHub  
+- 👯 I’m looking to collaborate on beginner-friendly projects  
+- 🤔 I’m looking for help with improving my coding logic and best practices  
+- 💬 Ask me about JavaScript basics and learning programming  
+- 📫 How to reach me: here on GitHub 😄  
+
+---
+
+⚡ Fun fact: I learn best by building things step by step 🚀
