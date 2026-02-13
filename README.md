@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on small personal projects to practice JavaScript  
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Git/GitHub  
+- 🌱 I’m currently learning Portugol, JavaScript, HTML, CSS and Git/GitHub  
 - 👯 I’m looking to collaborate on beginner-friendly projects  
 - 🤔 I’m looking for help with improving my coding logic and best practices  
 - 💬 Ask me about JavaScript basics and learning programming  
